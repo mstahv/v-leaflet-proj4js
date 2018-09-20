@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/v-leaflet-proj4js)
+[![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/v-leaflet-proj4js.svg)](https://vaadin.com/directory/component/v-leaflet-proj4js)
+
 # v-leaflet-proj4js
 
 This is a Vaadin add-on project that extends basic v-leaflet LMap component so that you can use any projection for the baselayer of your map. Currently the add-on is only really briefly tested with mapant.fi service, but it can probably be used with other base layers as well. See the src/test directory for the usage example.
